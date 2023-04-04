@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently improving my skills.<br><br>👯 I have been enjoying tech more than certain things in life now a days.<br><br>🌱 I’m currently learning React, NodeJS & Typescript is next.<br><br>💬 Ask me about HTML, CSS, JS, REACT, Regex & other tech web related stuff. I'm happy to share my thoughts and experiences with anyone who's interested.<br><br>⚡ Fun fact: Thinking aout it!!!
+🔭 I'm currently improving my skills.<br><br>👯 I have been enjoying tech more than certain things in life now a days.<br><br>🌱 I’m currently learning React, NodeJS & Typescript is next.<br><br>💬 Ask me about HTML, CSS, JS, REACT, Regex & other tech web related stuff. I'm happy to share my thoughts and experiences with anyone who's interested.<br><br>⚡ Fun fact: Thinking about it!!!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dashrath-sharma/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Dashrath-Sharma) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Dashrath-Sharma) 
